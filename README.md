@@ -1,6 +1,6 @@
 # Toy-XOR-Erasure-Coding
 
-Project of CS7316: Large-scale Data Processing Technology [2021Spring].
+Project of CS7316: Large-scale Data Processing Technology [2021 Spring].
 
 In this project, I just implement a naive xor-ec not for Hadoop or Minio but for my own toy distributed file system... :)
 
